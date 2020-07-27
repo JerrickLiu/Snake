@@ -11,3 +11,6 @@ python3 -m pip install -U pygame --user
 
 In the code, specify the path to the images for it to work. 
 
+## Demo
+
+![Pong demo](demo/demo1.gif)
